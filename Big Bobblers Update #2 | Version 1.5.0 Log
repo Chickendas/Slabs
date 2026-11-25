@@ -1,0 +1,56 @@
+# Gameplay & Features
+- Added a new Settings menu and Shop.
+- Added a Death Screen.
+- Added a new currency: **Scraps**.
+- Added proper kill verification.
+- Added Last Attacker tracking, which awards kills and displays information on the Death Screen.
+- Characters now play hurt sounds.
+- Changed the scream sound.
+- Characters now respawn when they get far enough away, to prevent Cheaters and Bugs from occuring.
+- Added Music to Playlist: [Positively Dark - Awakening](https://www.youtube.com/watch?v=PWmAxDSJ3qA)
+
+# UI & Controls
+- Revamped the Menu.
+- You can now pause and change your settings, customize your Bobbler, or browse the shop while in-game.
+- The pause menu does NOT make you invincible or prevent NPCs from attacking you.
+- Added a proper Loading Screen.
+- Fixed Console and Mobile controls.
+- Fixed the Return To Menu prompt appearing while already in the menu.
+- If a controller is connected to your computer, you may need to press a key on your preferred input device to prioritize its inputs.
+- You can now look up/down if you are at the limits of your arms
+- You can retract your arms by using the scroll wheel, Scrolling up extends them
+
+# NPCs & Combat
+- Improved NPC AI.
+- Attempted to fix NPCs exploding during combat. Please report it if this still happens!
+- Improved health detection.
+- NPCs can now grab items.
+- NPCs now wander around when nobody is nearby to fight.
+
+# Visuals & Effects
+- Updated the map with help from @radiancecascades or Mat in [Soggy World](https://soggy.world/)
+- Updated materials and slightly adjusted lighting.
+- Characters now use Leather as their body material.
+- Blood effects now use a pooling system.
+
+# Anti-Cheat
+- Improved anti-cheat detection.
+- In certain cases, when a player is flagged by the anti-cheat, a server-wide message will announce their ban.
+- Dex Explorer is now detected.
+- Infinite Yield should now be detected.
+
+# Technical Changes
+- Rescripted the server, but it still functions the same.
+- Rescripted the client, but it still functions the same.
+
+# Gamepass Changes
+- Removed the Hats and Faces gamepasses in favor of the new Scraps currency and Shop system.
+- Unfortunately Roblox does not provide a way for us to refund these purchases, so existing purchases will not be refunded.
+
+# Known Issues
+Please Read Through here before making a bug report.
+- Sometimes your character deletes itself randomly, Fix:
+  Open the Pause Menu (Key P or Topbar) & press Play / Resume, If that doesn't work Rejoin.
+- NPCs Get Hurt by their own item when swinging them, This is intentional.
+
+<@&1507714688673251409>
