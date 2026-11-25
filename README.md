@@ -55,3 +55,4 @@ Please Read Through here before making a bug report.
 - Sometimes your character deletes itself randomly, Fix:
   Open the Pause Menu (Key P or Topbar) & press Play / Resume, If that doesn't work Rejoin.
 - NPCs Get Hurt by their own item when swinging them, This is intentional.
+- The Showcase Bobbler in the Customize frame's accessories are a bit off when equipping them, this will be patched next update.
